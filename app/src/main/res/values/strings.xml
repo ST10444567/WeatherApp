@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="textview">TextView</string>
+    <string name="weather_app">Weather App</string>
+    <string name="st10444567">ST10444567</string>
+    <string name="Christiaan_Scheepers">Christiaan Scheepers</string>
+    <string name="todo">TODO</string>
+    <string name="start">Start</string>
+    <string name="button">Button</string>
+    <string name="exit">exit</string>
+    <string name="advanced_view">Advanced View</string>
+    <string name="exit2">Exit</string>
+    <string name="detailed_view">Detailed View</string>
+</resources>
